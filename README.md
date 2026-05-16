@@ -51,8 +51,8 @@ Navigate to the [Releases](https://github.com/MatrixxForge/Matrix-Kova-App/relea
 ## 🌐 Connect with Matrix Forge
 
 *   **Website:** [matrixx-forge.vercel.app](https://matrixx-forge.vercel.app)
-*   **Support:** [Neural Uplink (Contact Requests)](https://matrixx-forge.vercel.app/support)
-*   **Control Center:** [Admin Dashboard](https://matrixx-forge.vercel.app/system-control-center)
+*   **Contact:** [Neural Uplink (Contact Requests)](https://matrixx-forge.vercel.app/contact)
+*   **Control Center:** [Admin Dashboard](https://matrixx-forge.vercel.app/system-control-center) *(Admin Access Only)*
 
 ---
 
