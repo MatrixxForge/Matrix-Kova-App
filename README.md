@@ -31,7 +31,7 @@ Stay at the cutting edge without lifting a finger. Our proprietary **Binary Hot-
 ## 🚀 Installation
 
 ### 📥 Download the Latest Build
-Navigate to the [Releases](https://github.com/Matrix-Forge/MatrixKova/releases) section and download the latest `MatrixKova_Setup.exe`.
+Navigate to the [Releases](https://github.com/MatrixxForge/Matrix-Kova-App/releases) section and download the latest `MatrixKova_Setup_v1.0.0.exe`.
 
 1.  **Launch the Setup:** Run the installer and follow the premium wizard instructions.
 2.  **Initialize Handshake:** Upon first launch, the app will perform a system integrity check and initialize the local neural registry.
@@ -50,9 +50,9 @@ Navigate to the [Releases](https://github.com/Matrix-Forge/MatrixKova/releases) 
 
 ## 🌐 Connect with Matrix Forge
 
-*   **Website:** [matrixforge.ai](https://matrixforge.ai)
-*   **Support:** [Neural Uplink (Contact Requests)](https://matrixforge.ai/support)
-*   **Control Center:** [Admin Dashboard](https://matrixforge.ai/system-control-center)
+*   **Website:** [matrixx-forge.vercel.app](https://matrixx-forge.vercel.app)
+*   **Support:** [Neural Uplink (Contact Requests)](https://matrixx-forge.vercel.app/support)
+*   **Control Center:** [Admin Dashboard](https://matrixx-forge.vercel.app/system-control-center)
 
 ---
 
