@@ -1,50 +1,52 @@
-# 💠 Matrix Kova — The Neural Desktop Sentinel
+<p align="center">
+  <img src="logo.png" width="120" height="120" alt="Matrix Kova Logo">
+</p>
 
-![Matrix Banner](https://img.shields.io/badge/Matrix-Kova-00D26A?style=for-the-badge&logo=matrix&logoColor=black)
-![Version](https://img.shields.io/badge/Version-1.0.0-black?style=for-the-badge&border=00D26A)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+<h1 align="center">Matrix Kova</h1>
 
-> **"Beyond Automation. Beyond Intelligence. The Final Layer of Your Desktop Ecosystem."**
+<p align="center">
+  <b>The Hybrid AI Workstation for Local Agents.</b><br>
+  A high-performance desktop environment designed for seamless orchestration between local silicon and cloud neural links.
+</p>
 
-Matrix Kova is a next-generation AI desktop agent designed for seamless human-machine orchestration. Built on the high-performance **Matrix Neural Engine**, Kova bridges the gap between complex AI models and your local desktop environment, providing a secure, real-time, and ultra-responsive experience.
-
----
-
-## ⚡ Key Capabilities
-
-### 🧠 Hybrid Neural Architecture
-Seamlessly switch between **Local AI Cores** (running purely on your hardware for 100% privacy) and **Cloud Neural Links** (Groq, OpenAI, Anthropic) for maximum reasoning power.
-
-### 👁️ Real-time Desktop Vision
-Kova doesn't just read text; it *sees*. Integrated vision modules allow the agent to understand your screen, troubleshoot UI issues, and assist with visual tasks in real-time.
-
-### 🛡️ Enterprise-Grade Security
-*   **Local Persistence:** Your data never leaves your machine unless you explicitly connect a Neural Backup.
-*   **SSO Integration:** Secure biometric and single-sign-on handshakes for fleet-wide deployment.
-*   **Integrity Monitoring:** Automated anti-tamper systems ensure your neural core remains uncompromised.
-
-### 🔄 Auto-Update Infrastructure
-Stay at the cutting edge without lifting a finger. Our proprietary **Binary Hot-Swap** technology updates the core engine silently in the background, ensuring zero downtime for your workflows.
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-matrix?style=flat-square&color=00d26a" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Privacy-100%25_Local-green?style=flat-square" alt="Privacy">
+</p>
 
 ---
 
-## 🚀 Installation
+## ⚡ Grounded Capabilities
 
-### 📥 Download the Latest Build
-Navigate to the [Releases](https://github.com/MatrixxForge/Matrix-Kova-App/releases) section and download the latest `MatrixKova_Setup_v1.0.0.exe`.
+Matrix Kova is not just a chatbot; it's a hardware-aware workstation built for production-grade AI interactions.
 
-1.  **Launch the Setup:** Run the installer and follow the premium wizard instructions.
-2.  **Initialize Handshake:** Upon first launch, the app will perform a system integrity check and initialize the local neural registry.
-3.  **Sync Node:** (Optional) Connect to your Matrix Control Center to sync your fleet settings and neural backup.
+### 🧠 Hybrid Neural Engine
+Toggle instantly between **Local AI Cores** (running purely on your hardware for 100% privacy via llama.cpp) and **Cloud Neural Links** (Groq LPU) for lightning-fast reasoning at 800+ tokens/sec.
+
+### 🛠️ Autonomous Tool Orchestration
+The built-in Orchestration Engine allows the agent to plan and execute multi-step file system operations. It can read, write, and manage local project structures iteratively while keeping you in the loop.
+
+### 🛰️ Neural Registry Manager
+Browse and deploy the latest GGUF models directly from the app. The workstation handles background downloads, model verification, and dynamic registry updates from the Matrix cloud.
+
+### 🛡️ Hardware-Aware Autopilot
+Intelligent resource management that performs real-time RAM audits and CPU thread scaling. Kova optimizes itself for your specific silicon to prevent OOM crashes and thermal throttling.
+
+### ☁️ Cloud Sync Gateway
+Secure Google Drive integration allows for seamless database backups and cross-device recovery. Your neural identity and chat history are always encrypted and under your control.
+
+### 👤 Neural Identity Layer
+Personalize your workstation with custom system directives and identity profiles. Shape the agent's tone, role, and implicit preferences to match your specific workflow.
 
 ---
 
 ## 📋 System Requirements
 
 *   **OS:** Windows 10/11 (x64)
-*   **Memory:** 8GB RAM (16GB Recommended for Local Neural Cores)
+*   **Memory:** 8GB RAM (16GB Recommended for 8B+ Local Models)
 *   **Processor:** Modern Multi-core CPU with AVX2 support
-*   **Storage:** 500MB for core engine + additional for local model weights
+*   **Storage:** 500MB for core engine + space for local model weights (GGUF)
 
 ---
 
