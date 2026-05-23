@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ Grounded Capabilities
+## ⚡ Capabilities
 
 Matrix Kova is not just a chatbot; it's a hardware-aware workstation built for production-grade AI interactions.
 
